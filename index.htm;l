@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A Todo app built with Vue 3, Vue Router, and TanStack Query." />
+    <title>jameson</title>
+  </head>
+  <body>
+    <script
+  data-creative-id='51289-51773-52378-93207'
+  data-timestamp='2026-05-22T22:31:57.642Z'
+>
+(function() {
+  var s   = document.createElement('script');
+  s.src   = 'https://delivery-3.cavai.com/assets/creatives/93207/cmphglvd604lzqyj4hu032tsj/built/assets/stub.js?bust='+Date.now();
+  s.async = true;
+  s.setAttribute('data-click-macro', 'MACRO_PLACEHOLDER');
+  s.setAttribute('data-domain', 'DOMAIN_PLACEHOLDER');
+  s.setAttribute('data-dsp', 'DSP_PLACEHOLDER');
+  s.setAttribute('data-gdpr', '${GDPR}');
+  s.setAttribute('data-gdpr-consent', '${GDPR_CONSENT_755}');
+  s.setAttribute('data-clickthrough-url', 'https://www.jamesonwhiskey.com/en-ng/');
+  document.head.appendChild(s);
+})();
+</script>
+  </body>
+</html>
